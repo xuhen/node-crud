@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "engine": {
+    "v": ">6.x.x"
+  },
   "keywords": [],
   "author": "Edward <2289369299@qq.com>",
   "license": "ISC",
